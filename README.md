@@ -44,5 +44,5 @@ We use 24 + class = 25 ( 11 numeric ,14 nominal)
 33. Class (nominal)
 34. class - (ckd,notckd)
 
-https://github.com/Duncata/Supervise_Capstone/blob/master/PDF_GOOGLE_SLIDE%20of%20Kidney%20%20Disease%20Prediction.pdf
+
 
