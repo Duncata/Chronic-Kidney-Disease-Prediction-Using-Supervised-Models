@@ -59,11 +59,7 @@ We use 24 + class = 25 ( 11 numeric ,14 nominal)
 ![](CKD%20picture/Annotation%202019-11-26%20162516.png)
 ![](CKD%20picture/Annotation%202019-11-26%20162549.png)
 ![](CKD%20picture/Annotation%202019-11-26%20162644.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
-![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20162735.png)
+
 
 
