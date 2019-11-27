@@ -44,5 +44,26 @@ We use 24 + class = 25 ( 11 numeric ,14 nominal)
 33. Class (nominal)
 34. class - (ckd,notckd)
 
+# Slide picture
+
+![](CKD%20picture/Annotation%202019-11-26%20161614.png)
+![](CKD%20picture/Annotation%202019-11-26%20161709.png)
+![](CKD%20picture/Annotation%202019-11-26%20161844.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20162038.png)
+![](CKD%20picture/Annotation%202019-11-26%20162146.png)
+![](CKD%20picture/Annotation%202019-11-26%20162237.png)
+![](CKD%20picture/Annotation%202019-11-26%20162309.png)
+![](CKD%20picture/Annotation%202019-11-26%20162400.png)
+![](CKD%20picture/Annotation%202019-11-26%20162428.png)
+![](CKD%20picture/Annotation%202019-11-26%20162516.png)
+![](CKD%20picture/Annotation%202019-11-26%20162549.png)
+![](CKD%20picture/Annotation%202019-11-26%20162644.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
+![](CKD%20picture/Annotation%202019-11-26%20161958.png)
 
 
